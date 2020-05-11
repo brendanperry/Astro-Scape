@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: d6829538d1c6644af8141966c0b49fa2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Golden Hind Custom Sheet_0
+  - first:
+      213: 21300002
+    second: Golden Hind Custom Sheet_1
+  - first:
+      213: 21300004
+    second: Golden Hind Custom Sheet_2
+  - first:
+      213: 21300006
+    second: Golden Hind Custom Sheet_3
+  - first:
+      213: 21300008
+    second: Golden Hind Custom Sheet_4
+  - first:
+      213: 21300010
+    second: Golden Hind Custom Sheet_5
+  - first:
+      213: 21300012
+    second: Golden Hind Custom Sheet_6
+  - first:
+      213: 21300014
+    second: Golden Hind Custom Sheet_7
+  - first:
+      213: 21300016
+    second: Golden Hind Custom Sheet_8
+  - first:
+      213: 21300018
+    second: Golden Hind Custom Sheet_9
+  - first:
+      213: 21300020
+    second: Golden Hind Custom Sheet_10
+  - first:
+      213: 21300022
+    second: Golden Hind Custom Sheet_11
+  - first:
+      213: 21300024
+    second: Golden Hind Custom Sheet_12
+  - first:
+      213: 21300026
+    second: Golden Hind Custom Sheet_13
+  - first:
+      213: 21300028
+    second: Golden Hind Custom Sheet_14
+  - first:
+      213: 21300030
+    second: Golden Hind Custom Sheet_15
+  - first:
+      213: 21300032
+    second: Golden Hind Custom Sheet_16
+  - first:
+      213: 21300034
+    second: Golden Hind Custom Sheet_17
+  - first:
+      213: 21300036
+    second: Golden Hind Custom Sheet_18
+  - first:
+      213: 21300038
+    second: Golden Hind Custom Sheet_19
+  - first:
+      213: 21300040
+    second: Golden Hind Custom Sheet_20
+  - first:
+      213: 21300042
+    second: Golden Hind Custom Sheet_21
+  - first:
+      213: 21300044
+    second: Golden Hind Custom Sheet_22
+  - first:
+      213: 21300046
+    second: Golden Hind Custom Sheet_23
+  - first:
+      213: 21300048
+    second: Golden Hind Custom Sheet_24
+  - first:
+      213: 21300050
+    second: Golden Hind Custom Sheet_25
+  - first:
+      213: 21300052
+    second: Golden Hind Custom Sheet_26
+  - first:
+      213: 21300054
+    second: Golden Hind Custom Sheet_27
+  - first:
+      213: 21300056
+    second: Golden Hind Custom Sheet_28
+  - first:
+      213: 21300058
+    second: Golden Hind Custom Sheet_29
+  - first:
+      213: 21300060
+    second: Golden Hind Custom Sheet_30
+  - first:
+      213: 21300062
+    second: Golden Hind Custom Sheet_31
+  - first:
+      213: 21300064
+    second: Golden Hind Custom Sheet_32
+  - first:
+      213: 21300066
+    second: Golden Hind Custom Sheet_33
+  - first:
+      213: 21300068
+    second: Golden Hind Custom Sheet_34
+  - first:
+      213: 21300070
+    second: Golden Hind Custom Sheet_35
+  - first:
+      213: 21300072
+    second: Golden Hind Custom Sheet_36
+  - first:
+      213: 21300074
+    second: Golden Hind Custom Sheet_37
+  - first:
+      213: 21300076
+    second: Golden Hind Custom Sheet_38
+  - first:
+      213: 21300078
+    second: Golden Hind Custom Sheet_39
+  - first:
+      213: 21300080
+    second: Golden Hind Custom Sheet_40
+  - first:
+      213: 21300082
+    second: Golden Hind Custom Sheet_41
+  - first:
+      213: 21300084
+    second: Golden Hind Custom Sheet_42
+  - first:
+      213: 21300086
+    second: Golden Hind Custom Sheet_43
+  - first:
+      213: 21300088
+    second: Golden Hind Custom Sheet_44
+  - first:
+      213: 21300090
+    second: Golden Hind Custom Sheet_45
+  - first:
+      213: 21300092
+    second: Golden Hind Custom Sheet_46
+  - first:
+      213: 21300094
+    second: Golden Hind Custom Sheet_47
+  - first:
+      213: 21300096
+    second: Golden Hind Custom Sheet_48
+  - first:
+      213: 21300098
+    second: Golden Hind Custom Sheet_49
+  - first:
+      213: 21300100
+    second: Golden Hind Custom Sheet_50
+  - first:
+      213: 21300102
+    second: Golden Hind Custom Sheet_51
+  - first:
+      213: 21300104
+    second: Golden Hind Custom Sheet_52
+  - first:
+      213: 21300106
+    second: Golden Hind Custom Sheet_53
+  - first:
+      213: 21300108
+    second: Golden Hind Custom Sheet_54
+  - first:
+      213: 21300110
+    second: Golden Hind Custom Sheet_55
+  - first:
+      213: 21300112
+    second: Golden Hind Custom Sheet_56
+  - first:
+      213: 21300114
+    second: Golden Hind Custom Sheet_57
+  - first:
+      213: 21300116
+    second: Golden Hind Custom Sheet_58
+  - first:
+      213: 21300118
+    second: Golden Hind Custom Sheet_59
+  - first:
+      213: 21300120
+    second: Golden Hind Custom Sheet_60
+  - first:
+      213: 21300122
+    second: Golden Hind Custom Sheet_61
+  - first:
+      213: 21300124
+    second: Golden Hind Custom Sheet_62
+  - first:
+      213: 21300126
+    second: Golden Hind Custom Sheet_63
+  - first:
+      213: 21300128
+    second: Golden Hind Custom Sheet_64
+  - first:
+      213: 21300130
+    second: Golden Hind Custom Sheet_65
+  - first:
+      213: 21300132
+    second: Golden Hind Custom Sheet_66
+  - first:
+      213: 21300134
+    second: Golden Hind Custom Sheet_67
+  - first:
+      213: 21300136
+    second: Golden Hind Custom Sheet_68
+  - first:
+      213: 21300138
+    second: Golden Hind Custom Sheet_69
+  - first:
+      213: 21300140
+    second: Golden Hind Custom Sheet_70
+  - first:
+      213: 21300142
+    second: Golden Hind Custom Sheet_71
+  - first:
+      213: 21300144
+    second: Golden Hind Custom Sheet_72
+  - first:
+      213: 21300146
+    second: Golden Hind Custom Sheet_73
+  - first:
+      213: 21300148
+    second: Golden Hind Custom Sheet_74
+  - first:
+      213: 21300150
+    second: Golden Hind Custom Sheet_75
+  - first:
+      213: 21300152
+    second: Golden Hind Custom Sheet_76
+  - first:
+      213: 21300154
+    second: Golden Hind Custom Sheet_77
+  - first:
+      213: 21300156
+    second: Golden Hind Custom Sheet_78
+  - first:
+      213: 21300158
+    second: Golden Hind Custom Sheet_79
+  - first:
+      213: 21300160
+    second: Golden Hind Custom Sheet_80
+  - first:
+      213: 21300162
+    second: Golden Hind Custom Sheet_81
+  - first:
+      213: 21300164
+    second: Golden Hind Custom Sheet_82
+  - first:
+      213: 21300166
+    second: Golden Hind Custom Sheet_83
+  - first:
+      213: 21300168
+    second: Golden Hind Custom Sheet_84
+  - first:
+      213: 21300170
+    second: Golden Hind Custom Sheet_85
+  - first:
+      213: 21300172
+    second: Golden Hind Custom Sheet_86
+  - first:
+      213: 21300174
+    second: Golden Hind Custom Sheet_87
+  - first:
+      213: 21300176
+    second: Golden Hind Custom Sheet_88
+  - first:
+      213: 21300178
+    second: Golden Hind Custom Sheet_89
+  - first:
+      213: 21300180
+    second: Golden Hind Custom Sheet_90
+  - first:
+      213: 21300182
+    second: Golden Hind Custom Sheet_91
+  - first:
+      213: 21300184
+    second: Golden Hind Custom Sheet_92
+  - first:
+      213: 21300186
+    second: Golden Hind Custom Sheet_93
+  - first:
+      213: 21300188
+    second: Golden Hind Custom Sheet_94
+  - first:
+      213: 21300190
+    second: Golden Hind Custom Sheet_95
+  - first:
+      213: 21300192
+    second: Golden Hind Custom Sheet_96
+  - first:
+      213: 21300194
+    second: Golden Hind Custom Sheet_97
+  - first:
+      213: 21300196
+    second: Golden Hind Custom Sheet_98
+  - first:
+      213: 21300198
+    second: Golden Hind Custom Sheet_99
+  - first:
+      213: 21300200
+    second: Golden Hind Custom Sheet_100
+  - first:
+      213: 21300202
+    second: Golden Hind Custom Sheet_101
+  - first:
+      213: 21300204
+    second: Golden Hind Custom Sheet_102
+  - first:
+      213: 21300206
+    second: Golden Hind Custom Sheet_103
+  - first:
+      213: 21300208
+    second: Golden Hind Custom Sheet_104
+  - first:
+      213: 21300210
+    second: Golden Hind Custom Sheet_105
+  - first:
+      213: 21300212
+    second: Golden Hind Custom Sheet_106
+  - first:
+      213: 21300214
+    second: Golden Hind Custom Sheet_107
+  - first:
+      213: 21300216
+    second: Golden Hind Custom Sheet_108
+  - first:
+      213: 21300218
+    second: Golden Hind Custom Sheet_109
+  - first:
+      213: 21300220
+    second: Golden Hind Custom Sheet_110
+  - first:
+      213: 21300222
+    second: Golden Hind Custom Sheet_111
+  - first:
+      213: 21300224
+    second: Golden Hind Custom Sheet_112
+  - first:
+      213: 21300226
+    second: Golden Hind Custom Sheet_113
+  - first:
+      213: 21300228
+    second: Golden Hind Custom Sheet_114
+  - first:
+      213: 21300230
+    second: Golden Hind Custom Sheet_115
+  - first:
+      213: 21300232
+    second: Golden Hind Custom Sheet_116
+  - first:
+      213: 21300234
+    second: Golden Hind Custom Sheet_117
+  - first:
+      213: 21300236
+    second: Golden Hind Custom Sheet_118
+  - first:
+      213: 21300238
+    second: Golden Hind Custom Sheet_119
+  - first:
+      213: 21300240
+    second: Golden Hind Custom Sheet_120
+  - first:
+      213: 21300242
+    second: Golden Hind Custom Sheet_121
+  - first:
+      213: 21300244
+    second: Golden Hind Custom Sheet_122
+  - first:
+      213: 21300246
+    second: Golden Hind Custom Sheet_123
+  - first:
+      213: 21300248
+    second: Golden Hind Custom Sheet_124
+  - first:
+      213: 21300250
+    second: Golden Hind Custom Sheet_125
+  - first:
+      213: 21300252
+    second: Golden Hind Custom Sheet_126
+  - first:
+      213: 21300254
+    second: Golden Hind Custom Sheet_127
+  - first:
+      213: 21300256
+    second: Golden Hind Custom Sheet_128
+  - first:
+      213: 21300258
+    second: Golden Hind Custom Sheet_129
+  - first:
+      213: 21300260
+    second: Golden Hind Custom Sheet_130
+  - first:
+      213: 21300262
+    second: Golden Hind Custom Sheet_131
+  - first:
+      213: 21300264
+    second: Golden Hind Custom Sheet_132
+  - first:
+      213: 21300266
+    second: Golden Hind Custom Sheet_133
+  - first:
+      213: 21300268
+    second: Golden Hind Custom Sheet_134
+  - first:
+      213: 21300270
+    second: Golden Hind Custom Sheet_135
+  - first:
+      213: 21300272
+    second: Golden Hind Custom Sheet_136
+  - first:
+      213: 21300274
+    second: Golden Hind Custom Sheet_137
+  - first:
+      213: 21300276
+    second: Golden Hind Custom Sheet_138
+  - first:
+      213: 21300278
+    second: Golden Hind Custom Sheet_139
+  - first:
+      213: 21300280
+    second: Golden Hind Custom Sheet 1_0
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Golden Hind Custom Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Hind Custom Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 221
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Hind Custom Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 221
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Hind Custom Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 221
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Hind Custom Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 221
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Hind Custom Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 221
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Hind Custom Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Hind Custom Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Hind Custom Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Hind Custom Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Hind Custom Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Hind Custom Sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

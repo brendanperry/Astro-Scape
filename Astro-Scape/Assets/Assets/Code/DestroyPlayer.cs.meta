@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 27308409127594dda92cfa483fc46079
+timeCreated: 1431276311
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shield: {fileID: 164968, guid: 5cff3746bf57e47c5837018f7d623cd7, type: 2}
+  - hind: {fileID: 112404, guid: 28e8b317cd17a4c979b32152cec13bd3, type: 2}
+  - bird: {fileID: 113992, guid: 3d9a0ca9b282c442380c04763e8c552b, type: 2}
+  - naut: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
