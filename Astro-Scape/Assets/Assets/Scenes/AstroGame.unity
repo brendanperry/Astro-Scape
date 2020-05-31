@@ -2469,6 +2469,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 11447774, guid: afc799f7b231b47e9bb7657c02988756, type: 3}
+    - {fileID: 11479204, guid: afc799f7b231b47e9bb7657c02988756, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: afc799f7b231b47e9bb7657c02988756, type: 3}
 --- !u!1 &1221767975 stripped
 GameObject:
@@ -3462,7 +3463,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.6392157, g: 0.5058824, b: 0.08627451, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
