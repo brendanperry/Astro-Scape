@@ -31,6 +31,7 @@ public class EndScore : MonoBehaviour
 		if (score > highScore) {
 			highScore = score;
 			PlayerPrefs.SetInt (HighScore, highScore);
+			Social.ReportScore(highScore, leaderboardID, null);
 		//	GameCenterBinding.reportScore (highScore, leaderboardID);
 		}
 
