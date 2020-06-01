@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using System.Collections;
+using UnityEngine.SocialPlatforms.GameCenter;
 //using Prime31;
 
 public class GameCenterMNGR : MonoBehaviour
@@ -54,6 +54,7 @@ public class GameCenterMNGR : MonoBehaviour
 	{
 
 		if (PlayerPrefs.GetInt ("t") == 1) {
+			Social.ReportProgress("tutorial", 100.0, null);
 	//		GameCenterBinding.reportAchievement ("tutorial", 100);
 			PlayerPrefs.SetInt ("t", 2);
 			StopCoroutine ("tutorial");
@@ -65,6 +66,7 @@ public class GameCenterMNGR : MonoBehaviour
 	{
 
 		if (PlayerPrefs.GetInt ("p") == 1) {
+			Social.ReportProgress("100points", 100.0, null);
 		//	GameCenterBinding.reportAchievement ("100points", 100);
 			PlayerPrefs.SetInt ("p", 2);
 			StopCoroutine ("hundredpoints");
@@ -75,6 +77,7 @@ public class GameCenterMNGR : MonoBehaviour
 	{
 
 		if (PlayerPrefs.GetInt ("pf") == 1) {
+			Social.ReportProgress("500points", 100.0, null);
 		//	GameCenterBinding.reportAchievement ("500points", 100);
 			PlayerPrefs.SetInt ("pf", 2);
 			StopCoroutine ("fivehundredpoints");
@@ -85,6 +88,7 @@ public class GameCenterMNGR : MonoBehaviour
 	{
 
 		if (PlayerPrefs.GetInt ("u") == 1) {
+			Social.ReportProgress("FirstColor", 100.0, null);
 		//	GameCenterBinding.reportAchievement ("FirstColor", 100);
 			PlayerPrefs.SetInt ("u", 2);
 			StopCoroutine ("firstcolor");
@@ -95,6 +99,7 @@ public class GameCenterMNGR : MonoBehaviour
 	{
 
 		if (PlayerPrefs.GetInt ("m") == 1) {
+			Social.ReportProgress("maxhind", 100.0, null);
 		//	GameCenterBinding.reportAchievement ("maxhind", 100);
 			PlayerPrefs.SetInt ("m", 2);
 			StopCoroutine ("maxhind");
@@ -105,6 +110,7 @@ public class GameCenterMNGR : MonoBehaviour
 	{
 
 		if (PlayerPrefs.GetInt ("mt") == 1) {
+			Social.ReportProgress("maxthunderbird", 100.0, null);
 			//GameCenterBinding.reportAchievement ("maxthunderbird", 100);
 			PlayerPrefs.SetInt ("mt", 2);
 			StopCoroutine ("maxthunder");
@@ -115,6 +121,7 @@ public class GameCenterMNGR : MonoBehaviour
 	{
 
 		if (PlayerPrefs.GetInt ("mn") == 1) {
+			Social.ReportProgress("maxnaut", 100.0, null);
 		//	GameCenterBinding.reportAchievement ("maxnaut", 100);
 			PlayerPrefs.SetInt ("mn", 2);
 			StopCoroutine ("maxnaut");
@@ -125,6 +132,7 @@ public class GameCenterMNGR : MonoBehaviour
 	{
 
 		if (PlayerPrefs.GetInt ("ua") == 1) {
+			Social.ReportProgress("unlockall", 100.0, null);
 		//	GameCenterBinding.reportAchievement ("unlockall", 100);
 			PlayerPrefs.SetInt ("ua", 2);
 			StopCoroutine ("unlockall");
@@ -135,6 +143,7 @@ public class GameCenterMNGR : MonoBehaviour
 	{
 
 		if (PlayerPrefs.GetInt ("d") == 1) {
+			Social.ReportProgress("death", 100.0, null);
 		//	GameCenterBinding.reportAchievement ("death", 100);
 			PlayerPrefs.SetInt ("d", 2);
 			StopCoroutine ("death");
@@ -145,6 +154,7 @@ public class GameCenterMNGR : MonoBehaviour
 	{
 
 		if (PlayerPrefs.GetInt ("tw") == 1) {
+			Social.ReportProgress("timewaster", 100.0, null);
 		//	GameCenterBinding.reportAchievement ("timewaster", 100);
 			PlayerPrefs.SetInt ("tw", 2);
 			StopCoroutine ("timewaster");

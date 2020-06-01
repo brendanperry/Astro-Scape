@@ -1,23 +1,23 @@
 ﻿using UnityEngine;
-using System.Collections;
+using UnityEngine.SocialPlatforms.GameCenter;
 //using Prime31;
 
 public class Leaderboard : MonoBehaviour
 {
 	void Start ()
 	{
-	//	GameCenterBinding.showCompletionBannerForAchievements ();
-	//	GameCenterBinding.loadLeaderboardTitles ();
-	//	GameCenterBinding.authenticateLocalPlayer ();
+		Social.localUser.Authenticate ( OnGameCenterInit );
+		GameCenterPlatform.ShowDefaultAchievementCompletionBanner(true);
 	}
 
+	private void OnGameCenterInit( bool success )
+	{
+		Debug.Log("Logged in");
+	}
 
 	public void onClick ()
 	{
-
-	//	GameCenterBinding.authenticateLocalPlayer ();
-
-	//	GameCenterBinding.showLeaderboardWithTimeScope (GameCenterLeaderboardTimeScope.AllTime);
-	
+		if(Social.localUser.authenticated)
+			GameCenterPlatform.ShowLeaderboardUI("topscores4", UnityEngine.SocialPlatforms.TimeScope.AllTime);	
 	}
 }
