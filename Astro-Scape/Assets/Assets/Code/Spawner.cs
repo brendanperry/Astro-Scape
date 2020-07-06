@@ -42,12 +42,6 @@ public class Spawner : MonoBehaviour
 		InvokeRepeating ("Fire", fireTime, fireTime);
 
 	}
-	
-	// Update is called once per frame
-	void Update ()
-	{
-		fireTime += increase * Time.deltaTime;
-	}
 
 
 	//	IEnumerator SpawnGameObject ()
